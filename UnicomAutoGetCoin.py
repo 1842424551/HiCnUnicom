@@ -2,7 +2,7 @@
 # coding=utf-8
 # author:@QiuYueBai
 
-import http.cookiejar
+ import http.cookiejar
 import json
 import os
 import sys
